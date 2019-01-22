@@ -3,7 +3,7 @@ a clear and simple Keras implementation of Inception family for Jupyter Notebook
 
 Inception v1(GoogLenet)
 
-Inception v2
+Inception v2(BN-Inception)
 
 Inception v3
 
